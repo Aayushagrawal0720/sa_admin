@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214430050963",
+    "firebase_url": "https://stockadvisory-f4983.firebaseio.com",
+    "project_id": "stockadvisory-f4983",
+    "storage_bucket": "stockadvisory-f4983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214430050963:android:31ea05ee52f9bc8437fb66",
+        "android_client_info": {
+          "package_name": "com.createwealth.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214430050963-as1i9fsu3u923ujd7fohv673h0p6v9rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.createwealth.admin",
+            "certificate_hash": "d699939430d1e24801d42f18e388b4bbacbdb23c"
+          }
+        },
+        {
+          "client_id": "214430050963-1eo5rdf3sl1n765lv392dpcqmbhglf4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtjV3KEtNlUbQWf-pW1EXr6uXWEA7RRfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214430050963-1eo5rdf3sl1n765lv392dpcqmbhglf4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
